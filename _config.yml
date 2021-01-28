@@ -2,7 +2,7 @@
 title:       oTree
 email:       chris@otree.org
 author:      chris@otree.org
-description: "oTree : A software platform for economics experiments"
+description: "oTree : A software platform for social science experiments"
 baseurl:     ""
 url:         ""
 url_docs:    "http://otree.readthedocs.org/en/latest/"
